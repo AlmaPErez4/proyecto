@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 20px;
+}
+
+button{
+    margin: 30px
+}
